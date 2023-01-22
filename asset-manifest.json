@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/plotle/static/css/main.36a9929c.css",
+    "main.js": "/plotle/static/js/main.a7688ebb.js",
+    "static/js/787.57afa514.chunk.js": "/plotle/static/js/787.57afa514.chunk.js",
+    "static/media/spinner.gif": "/plotle/static/media/spinner.6bac071841d469d47eac.gif",
+    "index.html": "/plotle/index.html",
+    "main.36a9929c.css.map": "/plotle/static/css/main.36a9929c.css.map",
+    "main.a7688ebb.js.map": "/plotle/static/js/main.a7688ebb.js.map",
+    "787.57afa514.chunk.js.map": "/plotle/static/js/787.57afa514.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36a9929c.css",
+    "static/js/main.a7688ebb.js"
+  ]
+}
